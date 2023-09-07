@@ -1,5 +1,5 @@
 <p>
-   I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
+   Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы. 
 
 - :telescope: Я стремлюсь продолжать развиваться в направлении аналитики данных, так как мне нравится преобразовывать информацию в понятные и полезные инсайты, способствующие принятию обоснованных решений.
 
